@@ -3,11 +3,11 @@ entries:
   aad-pod-identity:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-11T17:20:08.2857008-07:00
+    created: "2019-06-17T18:26:12.1881336-07:00"
     description: A chart to deploy the components needed for AAD pod identity
-    digest: 6a1f49cbceabf394357500c6465ce72659eefcaa0a38bb1b86342662b81ceef5
+    digest: f6acb52b86afcafd09aaba022e0dace1ed7b6ad87622c0e2b2dac5278776f122
     name: aad-pod-identity
     urls:
-    - https://raw.githubusercontent.com/akshaysngupta/aad-pod-identity/master/charts/aad-pod-identity-0.1.0.tgz
+    - https://raw.githubusercontent.com/akshaysngupta/aad-pod-identity/aksgupta/helm-test/charts/aad-pod-identity-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-11T17:20:08.2847009-07:00
+generated: "2019-06-17T18:26:12.1861317-07:00"
